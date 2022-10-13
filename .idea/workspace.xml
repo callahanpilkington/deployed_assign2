@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="95d5c37a-a0fe-4bf4-9622-cf6aa2876e0d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfscrm/crm/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/mfscrm/crm/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfscrm/mfscrm/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mfscrm/mfscrm/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,7 @@
       <updated>1665665151156</updated>
       <workItem from="1665665153239" duration="407000" />
       <workItem from="1665665579391" duration="66000" />
-      <workItem from="1665665663472" duration="401000" />
+      <workItem from="1665665663472" duration="828000" />
     </task>
     <servers />
   </component>
